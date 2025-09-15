@@ -1,0 +1,17 @@
+{
+  "name": "sofiaia---solu-es-integradas",
+  "version": "1.0.0",
+  "description": "Chatbot IA via WhatsApp com integração ao Google Calendar e Docs, capaz de enviar mensagens personalizadas a partir de planilhas no Drive.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
